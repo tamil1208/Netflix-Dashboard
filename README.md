@@ -1,2 +1,17 @@
-# Netflix-Dashboard
-📊 Power BI Dashboard – An interactive data visualization tool to explore trends, analyze patterns, and generate insights! 🌟 Features include dynamic charts, filters, slicers, and data modeling with transformations like append, split, pivot/unpivot. Perfect for making data-driven decisions! 🔍💡📈
+# 📊 Power BI Dashboard
+An interactive dashboard built with Power BI to visualize and analyze data trends effortlessly! 
+🔍 Features
+Dynamic reports & visuals 📈
+Trend analysis over time ⏳
+Interactive filters & slicers 🎯
+Data modeling with transformations like append, split, pivot/unpivot 🔄
+🛠️ Technologies
+Power BI Desktop 🖥️
+DAX for calculations 🧮
+Data sources: CSV, Excel, SQL 🗂️
+🚀 Getting Started
+Open the .pbix file in Power BI Desktop
+Explore reports & visuals
+Customize with your own dataset 📝
+🤝 Contribution
+Pull requests and suggestions are welcome! 💌
